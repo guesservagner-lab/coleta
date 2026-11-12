@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ideau Amostras Zonas</name>
+<Style id="s">
+<IconStyle><color>ff2ec2f9</color><scale>1.0</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon></IconStyle>
+<LabelStyle><scale>0.8</scale></LabelStyle>
+<LineStyle><color>ff2ec2f9</color><width>2</width></LineStyle>
+<PolyStyle><color>552ec2f9</color></PolyStyle>
+</Style>
+<Placemark><name>Z01</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z01</value></Data></ExtendedData><Point><coordinates>-54.10262995800174,-31.375632859209144</coordinates></Point></Placemark>
+<Placemark><name>Z01</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z01</value></Data></ExtendedData><Point><coordinates>-54.102174535662996,-31.375381115545952</coordinates></Point></Placemark>
+<Placemark><name>Z01</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z01</value></Data></ExtendedData><Point><coordinates>-54.10298517027664,-31.37586798776118</coordinates></Point></Placemark>
+<Placemark><name>Z02</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z02</value></Data></ExtendedData><Point><coordinates>-54.10297279228974,-31.373883324369142</coordinates></Point></Placemark>
+<Placemark><name>Z02</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z02</value></Data></ExtendedData><Point><coordinates>-54.102932623153556,-31.37421799386393</coordinates></Point></Placemark>
+<Placemark><name>Z02</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z02</value></Data></ExtendedData><Point><coordinates>-54.10301741337562,-31.37355873971576</coordinates></Point></Placemark>
+<Placemark><name>Z03</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z03</value></Data></ExtendedData><Point><coordinates>-54.10375291936902,-31.374665573698092</coordinates></Point></Placemark>
+<Placemark><name>Z03</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z03</value></Data></ExtendedData><Point><coordinates>-54.10348921356841,-31.375084591470205</coordinates></Point></Placemark>
+<Placemark><name>Z03</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z03</value></Data></ExtendedData><Point><coordinates>-54.10413112032284,-31.374425732808614</coordinates></Point></Placemark>
+<Placemark><name>Z04</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z04</value></Data></ExtendedData><Point><coordinates>-54.10102177801711,-31.37414262170675</coordinates></Point></Placemark>
+<Placemark><name>Z04</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z04</value></Data></ExtendedData><Point><coordinates>-54.10128777164369,-31.37404968529646</coordinates></Point></Placemark>
+<Placemark><name>Z04</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z04</value></Data></ExtendedData><Point><coordinates>-54.100859509344744,-31.374434958156993</coordinates></Point></Placemark>
+<Placemark><name>Z05</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z05</value></Data></ExtendedData><Point><coordinates>-54.09936003938232,-31.37559150146548</coordinates></Point></Placemark>
+<Placemark><name>Z05</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z05</value></Data></ExtendedData><Point><coordinates>-54.09907343518034,-31.375870634044784</coordinates></Point></Placemark>
+<Placemark><name>Z05</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z05</value></Data></ExtendedData><Point><coordinates>-54.09965064810485,-31.37511955926181</coordinates></Point></Placemark>
+<Placemark><name>Z06</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z06</value></Data></ExtendedData><Point><coordinates>-54.10308844712985,-31.374783733976518</coordinates></Point></Placemark>
+<Placemark><name>Z06</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z06</value></Data></ExtendedData><Point><coordinates>-54.10239789156628,-31.374606696511307</coordinates></Point></Placemark>
+<Placemark><name>Z06</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z06</value></Data></ExtendedData><Point><coordinates>-54.10284521280364,-31.37449974891822</coordinates></Point></Placemark>
+<Placemark><name>Z07</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z07</value></Data></ExtendedData><Point><coordinates>-54.1011131347019,-31.375557813486243</coordinates></Point></Placemark>
+<Placemark><name>Z07</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z07</value></Data></ExtendedData><Point><coordinates>-54.100998199395505,-31.375969619583326</coordinates></Point></Placemark>
+<Placemark><name>Z08</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z08</value></Data></ExtendedData><Point><coordinates>-54.10351847382419,-31.374633650570612</coordinates></Point></Placemark>
+<Placemark><name>Z08</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z08</value></Data></ExtendedData><Point><coordinates>-54.1030808911043,-31.37296984700924</coordinates></Point></Placemark>
+<Placemark><name>Z08</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z08</value></Data></ExtendedData><Point><coordinates>-54.10343598320475,-31.374239942651823</coordinates></Point></Placemark>
+<Placemark><name>Z09</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z09</value></Data></ExtendedData><Point><coordinates>-54.102010612342575,-31.37380182100646</coordinates></Point></Placemark>
+<Placemark><name>Z09</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z09</value></Data></ExtendedData><Point><coordinates>-54.10186830894534,-31.374005512786862</coordinates></Point></Placemark>
+<Placemark><name>Z09</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z09</value></Data></ExtendedData><Point><coordinates>-54.102095933253004,-31.373467732725185</coordinates></Point></Placemark>
+<Placemark><name>Z10</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z10</value></Data></ExtendedData><Point><coordinates>-54.101626404636185,-31.374942871512367</coordinates></Point></Placemark>
+<Placemark><name>Z10</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z10</value></Data></ExtendedData><Point><coordinates>-54.10061138392298,-31.37478310299009</coordinates></Point></Placemark>
+<Placemark><name>Z10</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z10</value></Data></ExtendedData><Point><coordinates>-54.10106766184869,-31.37502983806036</coordinates></Point></Placemark>
+<Placemark><name>Z11</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z11</value></Data></ExtendedData><Point><coordinates>-54.10320467604259,-31.375301261225705</coordinates></Point></Placemark>
+<Placemark><name>Z11</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z11</value></Data></ExtendedData><Point><coordinates>-54.102899689749286,-31.37521782125944</coordinates></Point></Placemark>
+<Placemark><name>Z11</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z11</value></Data></ExtendedData><Point><coordinates>-54.103119866879,-31.375502852508568</coordinates></Point></Placemark>
+<Placemark><name>Z12</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z12</value></Data></ExtendedData><Point><coordinates>-54.10137759857503,-31.37469402825963</coordinates></Point></Placemark>
+<Placemark><name>Z12</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z12</value></Data></ExtendedData><Point><coordinates>-54.101852685416524,-31.374624623411034</coordinates></Point></Placemark>
+<Placemark><name>Z12</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z12</value></Data></ExtendedData><Point><coordinates>-54.100914158913326,-31.374706319500284</coordinates></Point></Placemark>
+<Placemark><name>Z13</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z13</value></Data></ExtendedData><Point><coordinates>-54.10265515403899,-31.373405269270798</coordinates></Point></Placemark>
+<Placemark><name>Z13</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z13</value></Data></ExtendedData><Point><coordinates>-54.101571823328236,-31.37404133022733</coordinates></Point></Placemark>
+<Placemark><name>Z13</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z13</value></Data></ExtendedData><Point><coordinates>-54.10241320588119,-31.37396002723463</coordinates></Point></Placemark>
+<Placemark><name>Z14</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z14</value></Data></ExtendedData><Point><coordinates>-54.10186148679134,-31.375658674698133</coordinates></Point></Placemark>
+<Placemark><name>Z14</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z14</value></Data></ExtendedData><Point><coordinates>-54.10149236175845,-31.375749875425104</coordinates></Point></Placemark>
+<Placemark><name>Z14</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z14</value></Data></ExtendedData><Point><coordinates>-54.100819494578545,-31.37539661233803</coordinates></Point></Placemark>
+<Placemark><name>Z15</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z15</value></Data></ExtendedData><Point><coordinates>-54.10047550394249,-31.376243083682176</coordinates></Point></Placemark>
+<Placemark><name>Z15</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z15</value></Data></ExtendedData><Point><coordinates>-54.10156257284101,-31.376105652730914</coordinates></Point></Placemark>
+<Placemark><name>Z15</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z15</value></Data></ExtendedData><Point><coordinates>-54.10085360245486,-31.376574196022045</coordinates></Point></Placemark>
+<Placemark><name>Z16</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z16</value></Data></ExtendedData><Point><coordinates>-54.099854255453636,-31.376030166665647</coordinates></Point></Placemark>
+<Placemark><name>Z16</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z16</value></Data></ExtendedData><Point><coordinates>-54.10051168204861,-31.375163301953396</coordinates></Point></Placemark>
+<Placemark><name>Z16</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z16</value></Data></ExtendedData><Point><coordinates>-54.100147760277785,-31.37565182374754</coordinates></Point></Placemark>
+<Placemark><name>Z17</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z17</value></Data></ExtendedData><Point><coordinates>-54.10411357711047,-31.37413693872607</coordinates></Point></Placemark>
+<Placemark><name>Z17</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z17</value></Data></ExtendedData><Point><coordinates>-54.10389753772273,-31.37390444496549</coordinates></Point></Placemark>
+<Placemark><name>Z17</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z17</value></Data></ExtendedData><Point><coordinates>-54.10431874785728,-31.37429110020147</coordinates></Point></Placemark>
+<Placemark><name>Z18</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z18</value></Data></ExtendedData><Point><coordinates>-54.1025482325151,-31.374933103278153</coordinates></Point></Placemark>
+<Placemark><name>Z18</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z18</value></Data></ExtendedData><Point><coordinates>-54.10175943371319,-31.37523530444124</coordinates></Point></Placemark>
+<Placemark><name>Z18</name><styleUrl>#s</styleUrl><ExtendedData><Data name="zona"><value>Z18</value></Data></ExtendedData><Point><coordinates>-54.102212203890545,-31.374732128360264</coordinates></Point></Placemark>
+</Document>
+</kml>
